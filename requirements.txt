@@ -1,0 +1,4 @@
+neonize
+groq
+supabase
+flask
